@@ -14,7 +14,7 @@ library(stringr)
 library(tidyr)
 library(pdftools)
 
-setwd("C:/Users/ujorina/Desktop/R Projects/End to End")
+setwd("./R Projects/End to End")
 
 # Functions
 source("functions.R")
